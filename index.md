@@ -12,6 +12,9 @@ var myVar = "Hello, world!";
 print("Hello, world!")
 ```
 ### Third T
+- [ ] turn on the page
+- [x] write a page
 #### Fourth T
+
 
 
